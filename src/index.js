@@ -1,11 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Route, Link, BrowserRouter as Router } from 'react-router-dom';
-import './css/index.css';
+import './styles/css/index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import Experience from './Component/Experience';
 import Contact from './Component/Contact';
+// import our fontawesome library
+import './Component/fontAwesome'
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
