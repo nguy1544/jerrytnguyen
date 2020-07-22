@@ -9,7 +9,6 @@ class Contact extends Component {
                 <ul className="actions">
                     <li><a className="fa fa-linkedin fa-4x" target="_blank" href="https://www.linkedin.com/in/jerrytnguyen/" /></li>
                     <li><a className="fa fa-google fa-4x" href="mailto:nguye1544@gmail.com" /></li>
-                    <li><a className="fa fa-instagram fa-4x" target="_blank" href="https://instagram.com/jerrythenguyen" /></li>
                 </ul>
             </div>
         );

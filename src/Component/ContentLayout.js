@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
 import PropTypes from "prop-types";
 import Contact from "./Contact";
+import About from "./About";
 
 class ContentLayout extends Component {
     render() {
         return (
         <div className="app-contentLayout">
-            <p>
-                Come back later.
-            </p>
+            <About />
             <hr />
             <hr />
             <hr />
@@ -18,7 +17,7 @@ class ContentLayout extends Component {
             <hr />
             <Contact />
             <hr />
-                <a className="btn btn-outline-info" href="Resume.pdf" target="_blank">Resume</a>
+                <a className="btn btn-outline-light btn-resume" href="Resume.pdf" target="_blank">resume</a>
             <hr />
         </div>
         );

@@ -16,9 +16,13 @@
   color: white;
 }
 .app-contentLayout > .app-contact > h1,
+.app-contentLayout > .app-about > h1,
 .app-contentLayout > .app-contact > h2,
+.app-contentLayout > .app-about > h2,
 .app-contentLayout > .app-contact > h3,
-.app-contentLayout > .app-contact > h4 {
+.app-contentLayout > .app-about > h3,
+.app-contentLayout > .app-contact > h4,
+.app-contentLayout > .app-about > h4 {
   margin: 0 auto 0;
   display: block;
   padding: 0;
@@ -32,4 +36,10 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.btn-resume:hover {
+  color: chartreuse;
+  background-color: #282c34;
+  border-color: chartreuse;
 }
