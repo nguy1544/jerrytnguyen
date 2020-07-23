@@ -1,5 +1,5 @@
 import React from 'react';
-import './styles/css/App.css';
+import './styles/css/app.css';
 import Header from './Component/Header'
 import ContentLayout from './Component/ContentLayout'
 import Footer from './Component/Footer'

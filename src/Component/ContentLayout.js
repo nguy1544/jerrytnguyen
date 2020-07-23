@@ -12,8 +12,6 @@ class ContentLayout extends Component {
             <hr />
             <hr />
             <hr />
-            <hr />
-            <hr />
             <Contact />
             <hr />
                 <a className="btn btn-outline-light btn-resume" href="Resume.pdf" target="_blank">resume</a>
