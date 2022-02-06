@@ -11,7 +11,7 @@ class About extends Component {
                 <ul className="list">
                     <li><h2>Jerry Nguyen</h2></li>
                     <li>Consultant (Software Engineer)</li>
-                    <li><a href="https://objectpartners.com" target="_blank">Object Partners</a></li>
+                    <li><a href="https://objectpartners.com" target="_blank">Object Partners, an Improving Company</a></li>
                 </ul>
             </div>
         );
