@@ -1,0 +1,19 @@
+#copyright {
+    margin: 0 auto 0;
+    display: block;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+div.app-footer {
+    margin: 0 auto 0;
+    display: block;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+div.app-footer > ul {
+    color: white;
+}

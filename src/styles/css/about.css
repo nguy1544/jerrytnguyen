@@ -1,0 +1,41 @@
+.app-contentLayout > .app-about > h4 {
+    padding-bottom: 1em;
+}
+span.avatar {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+img.avatar {
+    vertical-align: middle;
+    width: 10em;
+    height: 10em;
+    border-radius: 50%;
+}
+
+ul.list {
+    display: block;
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+}
+
+ul.list > li {
+    display: inline-block;
+    width: 100%;
+}
+/*div.about-content > p {*/
+/*    text-align: center;*/
+/*}*/
+
+ul.list > li > a {
+    color: white;
+}
+ul.list > li > a:hover {
+    color: chartreuse;
+    text-decoration: none;
+}

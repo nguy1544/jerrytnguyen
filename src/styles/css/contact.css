@@ -1,0 +1,31 @@
+.app-contact {
+    display: block;
+}
+
+ul.actions {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+
+ul.actions > li {
+    display: inline;
+}
+
+ul.actions > li > a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px;
+}
+
+.fa-linkedin,
+.fa-instagram,
+.fa-google {
+    color: white;
+}
+
+ul.actions > li > a:hover {
+    color: chartreuse;
+}
