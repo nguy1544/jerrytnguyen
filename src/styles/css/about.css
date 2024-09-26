@@ -1,6 +1,10 @@
 .app-contentLayout > .app-about > h4 {
     padding-bottom: 1em;
 }
+.app-about {
+    margin: 0% 25% 0% 25%;
+}
+
 span.avatar {
     margin-left: auto;
     margin-right: auto;
